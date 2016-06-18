@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Ecommerce" parallel="false">
+  <test name="Sanity">
+    <classes>
+      <class name="sanityTest.NewTest1"/>
+      <class name="sanityTest.NewTest2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
